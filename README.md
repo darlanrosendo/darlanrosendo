@@ -25,8 +25,8 @@ I'm currently diving deeper into **C#** and **web development**, focused on buil
 ## 📊 My GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darlanrosendo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanrosendo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ## 🛠️ Technologies and tools
